@@ -10,7 +10,7 @@
 - [Чек-лист тестирования сайта](https://github.com/Malibragim/Manual-QA/blob/eadfac282a5549b02c68f0b6b8a825deec6eaea0/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%2B%D0%B4%D0%BB%D1%8F%2B%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%2B%D1%81%D0%B0%D0%B9%D1%82%D0%B0.xlsx)
 - [Список баг-репортов на английском языке](https://github.com/Malibragim/Manual-QA/blob/5f14b4275d12d1d0bce47e7e97b621046b3b0a1b/bug-reports%20list%20(english%20language).pdf)
 - [Список баг-репортов на русском языке](https://github.com/Malibragim/Manual-QA/blob/ad0767b7bea5040f35dc69bced8a67500984f30d/bug-reports%20list%20(russian%20language).pdf)
-- [Отчёт о дефектах, выявленных в ходе тестирования десктопного приложения]()
+- [Отчёт о дефектах, выявленных в ходе тестирования десктопного приложения](https://github.com/Malibragim/Manual-QA/blob/3af38afb3aede99302704917a06ddf53396c6169/%D0%9E%D1%82%D1%87%D1%91%D1%82%D1%8B%2B%D0%BE%2B%D0%B4%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B0%D1%85%2C%2B%D0%B2%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%2B%D0%B2%2B%D1%85%D0%BE%D0%B4%D0%B5%2B%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.docx)
 - [Отчёт о тестировании]()
 
 ### SQL-запросы:
