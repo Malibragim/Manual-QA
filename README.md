@@ -28,3 +28,8 @@
      <img src = 'https://github.com/Malibragim/Fullstack-QA/blob/689b1ac4b37e32f49b5eec77f57e92ca670a2f1d/gif%20and%20icons/default.png' title = 'Swagger' alt = 'Swagger' width="60" height="60"/> &nbsp;
      <img src = 'https://github.com/Malibragim/Fullstack-QA/blob/689b1ac4b37e32f49b5eec77f57e92ca670a2f1d/gif%20and%20icons/terminal-ldap.png' title = 'LDAP' alt = 'LDAP' width="60" height="60"/> &nbsp;
 </div>
+
+## Мои контакты:
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor)](malikibragimov890@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor)](http://t.me/Malibragim)
+![+7 928 136 85 87](https://img.shields.io/badge/-+7_928_136_85_87-090909?style=for-the-badge&logo=&logoColor)
